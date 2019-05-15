@@ -11,3 +11,5 @@ With all of these statistics in mind, I want to explore the health and economic 
 ### The Data
 * The CDC has created a [toolkit](https://nccd.cdc.gov/Toolkit/DiabetesBurden/Home/Index) that explores the Economic Burden and the Health Burden that diabetes causes on states across the country for the years from 2011-2013.
 * The University of California at Irvine (UC) released a dataset on [hospital readmissions at 130 hospitals for the years 1999-2008.](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008) This original dataset was pulled from the Health Facts database, a national data warehouse that collects clinical records across participating U.S. hospitals that use the Cerner Electronic Health Record (EHR). The dataset was filtered down by the Departments of Computer Science, Health Administration, and Biostatistics at Virginia Commonwealth University (VCU) as part of a study exploring the [effect of the HbA1c measurement on hospital readmission rates.](https://www.hindawi.com/journals/bmri/2014/781670/)
+
+![Comparison of Model Performance Metrics](Desktop/Screen Shot 2019-05-14 at 9.58.10 PM.png)
