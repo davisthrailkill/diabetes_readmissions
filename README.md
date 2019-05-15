@@ -6,7 +6,7 @@ In March 2018, the American Diabetes Association released its findings from a st
 
 In 2015, diabetes was listed as the underlying cause of death on 79,535 death certificates, making it the 7th leading cause of death in the United States. Further, it was mentioned on 252,806 certificates as one of the causes. Diabetes may also be underreported since only about 35-40% of people with diabetes who died had diabetes mentioned on their certificate, and only about 10-15% had it listed as the underlying cause of death.
 
-With all of these statistics in mind, I want to explore the health and economic burdens that diabetes causes on communities throughout the country using data from the CDC. I then want to explore a dataset made publicly available from University of California at Irvine through the UCI Machine Learning Repository to predict hospital readmissions.
+With all of these statistics in mind, I want to explore the health and economic burdens that diabetes causes on communities throughout the country using data from the CDC. I then want to explore a dataset made publicly available from University of California at Irvine through the UCI Machine Learning Repository to predict hospital readmissions for patients with diagnosed diabetes.
 
 ### The Data
 The CDC has created a toolkit that explores the Economic Burden and the Health Burden that diabetes causes on states across the country for the years from 2011 to 2013.
